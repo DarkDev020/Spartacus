@@ -18,6 +18,6 @@ bot.on('guildCreate', (guild) => {
   bot.channels.get('804843735300833290').send(embed)
 });
 
-bot.login("ODAyMDM0NTY2MjA1NDA3MzAy.YApW5Q.H7Z6nTP11NWs7NRhhZ1APaDhSmg");
+bot.login("TOKEN");
 
 bot.afk = new Map();
