@@ -9,6 +9,6 @@ module.exports = {
 },
 
 run: async(client, msg, args) => {
-  
+  let user = msg.mentions.members.first()
 
 }}
